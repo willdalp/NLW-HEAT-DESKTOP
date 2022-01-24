@@ -61,7 +61,7 @@ body {
         left: 138px;
         border-radius: 2px;
     }
-}
+} 
 
 @media (min-width: 540px) {
     .container_principal {
